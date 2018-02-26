@@ -1,7 +1,7 @@
-package com.globallogic.store;
+package com.globallogic.productStore;
 
-import com.globallogic.abstraction.Pizza;
-import com.globallogic.factory.SimplePizzaFactory;
+import com.globallogic.abstractProduct.Pizza;
+import com.globallogic.concreteFactory.SimplePizzaFactory;
 
 public class PizzaStore {
     SimplePizzaFactory factory;

@@ -1,6 +1,6 @@
-package com.globallogic.concrete;
+package com.globallogic.concreteProducts;
 
-import com.globallogic.abstraction.Pizza;
+import com.globallogic.abstractProduct.Pizza;
 
 public class CheesePizza extends Pizza {
     public CheesePizza() {

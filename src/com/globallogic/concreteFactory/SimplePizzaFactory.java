@@ -1,10 +1,10 @@
-package com.globallogic.factory;
+package com.globallogic.concreteFactory;
 
-import com.globallogic.abstraction.Pizza;
-import com.globallogic.concrete.CheesePizza;
-import com.globallogic.concrete.ClamPizza;
-import com.globallogic.concrete.PepperoniPizza;
-import com.globallogic.concrete.VeggiePizza;
+import com.globallogic.abstractProduct.Pizza;
+import com.globallogic.concreteProducts.CheesePizza;
+import com.globallogic.concreteProducts.ClamPizza;
+import com.globallogic.concreteProducts.PepperoniPizza;
+import com.globallogic.concreteProducts.VeggiePizza;
 
 public class SimplePizzaFactory {
 

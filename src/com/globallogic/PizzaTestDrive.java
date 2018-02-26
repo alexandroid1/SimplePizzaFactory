@@ -1,8 +1,8 @@
 package com.globallogic;
 
-import com.globallogic.abstraction.Pizza;
-import com.globallogic.factory.SimplePizzaFactory;
-import com.globallogic.store.PizzaStore;
+import com.globallogic.abstractProduct.Pizza;
+import com.globallogic.concreteFactory.SimplePizzaFactory;
+import com.globallogic.productStore.PizzaStore;
 
 public class PizzaTestDrive {
 

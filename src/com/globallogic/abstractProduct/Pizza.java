@@ -1,4 +1,4 @@
-package com.globallogic.abstraction;
+package com.globallogic.abstractProduct;
 
 import java.util.ArrayList;
 
